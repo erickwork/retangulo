@@ -1,0 +1,4 @@
+c:\users\m4.srvchc\documents\visual studio 2010\Projects\reatanguloConsoleOO\reatanguloConsoleOO\bin\Release\reatanguloConsoleOO.exe
+c:\users\m4.srvchc\documents\visual studio 2010\Projects\reatanguloConsoleOO\reatanguloConsoleOO\bin\Release\reatanguloConsoleOO.pdb
+c:\users\m4.srvchc\documents\visual studio 2010\Projects\reatanguloConsoleOO\reatanguloConsoleOO\obj\x86\Release\reatanguloConsoleOO.exe
+c:\users\m4.srvchc\documents\visual studio 2010\Projects\reatanguloConsoleOO\reatanguloConsoleOO\obj\x86\Release\reatanguloConsoleOO.pdb
